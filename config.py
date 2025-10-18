@@ -1,0 +1,2 @@
+# HF_API_KEY="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"
+HPI_API_KEY="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"
